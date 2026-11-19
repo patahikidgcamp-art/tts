@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VaniVox</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_voices">Voices</string>
+    <string name="nav_exports">Exports</string>
+    <string name="cd_toggle_theme">Toggle dark mode</string>
+    <string name="cd_offline_mode">Toggle offline voice mode</string>
+    <string name="cd_battery_saver">Toggle low-battery mode</string>
+    <string name="cd_play_pause">Play or pause speech</string>
+    <string name="cd_stop">Stop speech</string>
+    <string name="cd_export_audio">Export speech audio</string>
+    <string name="cd_clear_text">Clear text</string>
+    <string name="cd_paste_text">Paste from clipboard</string>
+    <string name="cd_all_languages">Browse all languages</string>
+    <string name="cd_preview_voice">Preview vocal profile</string>
+    <string name="cd_share_audio">Share audio file</string>
+    <string name="cd_save_downloads">Save to Downloads</string>
+    <string name="cd_delete_audio">Delete audio file</string>
+    <string name="studio_hint">Type or paste text in Hindi, English, or any supported language…</string>
+    <string name="notification_channel_name">Voice Playback</string>
+    <string name="notification_channel_desc">Lightweight background text-to-speech playback controls</string>
+    <string name="notification_playing_title">VaniVox Speaking</string>
+    <string name="notification_paused_title">VaniVox Paused</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+</resources>

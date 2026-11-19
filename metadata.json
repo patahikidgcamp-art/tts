@@ -1,0 +1,6 @@
+{
+  "name": "VaniVox",
+  "description": "Lightweight offline-ready multilingual text-to-speech studio with male and female voice styles, dark mode, low-battery background playback, and MP3/WAV/AAC audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

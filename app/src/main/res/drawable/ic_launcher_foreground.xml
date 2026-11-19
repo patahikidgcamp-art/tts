@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left harmonic bar -->
+    <path
+        android:fillColor="#FF5EEAD4"
+        android:pathData="M31,45 C31,42.8 32.8,41 35,41 C37.2,41 39,42.8 39,45 L39,63 C39,65.2 37.2,67 35,67 C32.8,67 31,65.2 31,63 Z" />
+    <!-- Inner left tall bar -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M43,35 C43,32.8 44.8,31 47,31 C49.2,31 51,32.8 51,35 L51,73 C51,75.2 49.2,77 47,77 C44.8,77 43,75.2 43,73 Z" />
+    <!-- Center resonant voice peak -->
+    <path
+        android:fillColor="#FF2DD4BF"
+        android:pathData="M55,28 C55,25.8 56.8,24 59,24 C61.2,24 63,25.8 63,28 L63,80 C63,82.2 61.2,84 59,84 C56.8,84 55,82.2 55,80 Z" />
+    <!-- Right harmonic bar -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M67,39 C67,36.8 68.8,35 71,35 C73.2,35 75,36.8 75,39 L75,69 C75,71.2 73.2,73 71,73 C68.8,73 67,71.2 67,69 Z" />
+    <!-- Warm coral accent spark -->
+    <path
+        android:fillColor="#FFFB923C"
+        android:pathData="M79,54 A4.5,4.5 0 1,1 70,54 A4.5,4.5 0 1,1 79,54 Z" />
+</vector>
